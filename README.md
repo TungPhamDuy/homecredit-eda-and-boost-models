@@ -3,7 +3,7 @@
 This is a personal project of Tung Pham in order to serve as the midterm project for the Machine Learning course taken at the University of Economics and Law (VNU-HCM)_**
 
 **Project Title:**
-Home Credit Default Risk: EDA and Machine Learning Model
+Home Credit Default Risk: EDA and Machine Learning Model 
 
 
 **The problem statement:**
